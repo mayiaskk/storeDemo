@@ -1,6 +1,6 @@
 # storeDemo
 
-> 无框架实现的商城demo
+> Java无框架实现的商城demo
 
 **功能主要有：**
 
