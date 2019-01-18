@@ -17,5 +17,5 @@ idea2018，sql8，tomcat8
 
 **配置**:
 
-数据库配置在src/c3p0-config.xml中，redis通过jedis连接，jedis配置一部分在JedisUtils工具类里面，一部分在servlet代码中。
+使用时，只需开启redis和tomcat，同时修改数据库和redis的配置即可：数据库配置在src/c3p0-config.xml中，redis通过jedis连接，jedis配置一部分在JedisUtils工具类里面，一部分在servlet代码中。
 
